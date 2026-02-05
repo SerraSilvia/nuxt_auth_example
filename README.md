@@ -77,4 +77,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ### Drizzle:
 npx drizzle-kit push
 npx drizzle-kit studio
-# nuxt_auth_example
+
+
